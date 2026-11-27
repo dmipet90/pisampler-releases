@@ -1,0 +1,21 @@
+Acquire-By-Hash: yes
+Architectures: arm64
+Codename: trixie
+Components: main
+Date: Fri, 27 Nov 2026 18:37:54 +0000
+Description: PiSampler packages for 64-bit Raspberry Pi OS trixie
+Label: PiSampler
+Origin: PiSampler
+Suite: trixie
+MD5Sum:
+ 133d136bf0a4e8e04741328a13b57d7e             3612 main/binary-arm64/Packages
+ 84033ba0fa40523d6f76081349d23e48             1171 main/binary-arm64/Packages.gz
+SHA1:
+ b531ec583f6453b6238588febb33bec0e3cd70b4             3612 main/binary-arm64/Packages
+ afc840c2356bf1548aa84b23b50ce08e28b4e723             1171 main/binary-arm64/Packages.gz
+SHA256:
+ 9f89968efa1625da60f70d2c594402cb465439cf18c4dd2ca3527976041cb03e             3612 main/binary-arm64/Packages
+ 4c4dcb341cb982c50d4bdebb740d3cfe288d93a4c49acb4ba259cc6b27711190             1171 main/binary-arm64/Packages.gz
+SHA512:
+ 0f8716f0be027d9e4a98573edc00b1c1ddca8500d95edb20f9b2b6df75c99e0731a6e47c37d03eedd31a53562529fd6385cea8fb31050826fe6ee25566a478ed             3612 main/binary-arm64/Packages
+ 8e61f6912a3994cb6289a0d6ac0911d941911e3009ca31dfd675ad9403e1595d761c318bdb630702acc1b94217993816eae674db10cb53b0922873e8ae7f8abb             1171 main/binary-arm64/Packages.gz

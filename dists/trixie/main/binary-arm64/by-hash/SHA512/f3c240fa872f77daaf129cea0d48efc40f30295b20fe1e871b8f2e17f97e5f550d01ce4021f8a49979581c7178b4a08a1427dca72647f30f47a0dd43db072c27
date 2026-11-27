@@ -1,0 +1,72 @@
+Package: pisampler
+Architecture: arm64
+Version: 1.1.1
+Priority: optional
+Section: sound
+Maintainer: PiSampler <dmipet90@users.noreply.github.com>
+Installed-Size: 14660
+Depends: libasound2t64 (>= 1.2.13), libc6 (>= 2.38), libegl1, libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.13.1), libgcc-s1 (>= 4.0), libgl1, libstdc++6 (>= 14), libx11-6, libxext6, libxinerama1, libxrandr2, libxcursor1, libxrender1, libxi6
+Recommends: libcurl4t64, pkexec
+Suggests: libjack-jackd2-0
+Filename: pool/main/p/pisampler/pisampler_1.1.1_arm64.deb
+Size: 4652084
+MD5sum: 8f04d5805d51e61ae6da8a07cc0c497c
+SHA1: 74dd23bd90529fa7d86f6f39ebcfe4aac959fed1
+SHA256: 0fa9c43a662e3e5cd35a6f8dfe8fb139190b23ae33bb89d43b92282aaff36ec1
+SHA512: 36e3e123b233802174337fb3b3bb91da19508ef219c84ed3e92b653e6065892cac09820a10314246bde2746c697907fafe754b946164dfd8c29f24f707c4c3b9
+Homepage: https://github.com/dmipet90/pisampler-releases
+Description: DIY Raspberry Pi sampler workstation
+ PiSampler is a sampler for the Raspberry Pi with pads, slicing, a step
+ sequencer, a piano roll and an arrange view, played from MIDI controllers.
+ .
+ Installing the package also adds the PiSampler APT repository, so
+ "apt upgrade" installs new versions.
+
+Package: pisampler
+Architecture: arm64
+Version: 1.1.2
+Priority: optional
+Section: sound
+Maintainer: PiSampler <dmipet90@users.noreply.github.com>
+Installed-Size: 14660
+Depends: libasound2t64 (>= 1.2.13), libc6 (>= 2.38), libegl1, libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.13.1), libgcc-s1 (>= 4.0), libgl1, libstdc++6 (>= 14), libx11-6, libxext6, libxinerama1, libxrandr2, libxcursor1, libxrender1, libxi6
+Recommends: libcurl4t64, pkexec
+Suggests: libjack-jackd2-0
+Filename: pool/main/p/pisampler/pisampler_1.1.2_arm64.deb
+Size: 4654416
+MD5sum: 495b054449e713235cd517b2848d2139
+SHA1: 69e3429283854eabc444d5cab181f3004d570da7
+SHA256: be70f15ae30420f3e8aa82868eef28d515bd28739debdf5d9aced19a24606076
+SHA512: ab522d08486bf4830bc46a3242888a7d897671fe2f09552b92ea8a5e4c23729079d2ee06417a2536b70d6f813cd7b846a39983afd8349d4b0ef01de1bf797f82
+Homepage: https://github.com/dmipet90/pisampler-releases
+Description: DIY Raspberry Pi sampler workstation
+ PiSampler is a sampler for the Raspberry Pi with pads, slicing, a step
+ sequencer, a piano roll and an arrange view, played from MIDI controllers.
+ .
+ Installing the package also adds the PiSampler APT repository, so
+ "apt upgrade" installs new versions.
+
+Package: pisampler
+Architecture: arm64
+Version: 1.2.0
+Priority: optional
+Section: sound
+Maintainer: PiSampler <dmipet90@users.noreply.github.com>
+Installed-Size: 14724
+Depends: libasound2t64 (>= 1.2.13), libc6 (>= 2.38), libegl1, libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.13.1), libgcc-s1 (>= 4.0), libgl1, libstdc++6 (>= 14), libx11-6, libxext6, libxinerama1, libxrandr2, libxcursor1, libxrender1, libxi6
+Recommends: libcurl4t64, pkexec
+Suggests: libjack-jackd2-0
+Filename: pool/main/p/pisampler/pisampler_1.2.0_arm64.deb
+Size: 4677340
+MD5sum: 7c6b4031da0ad6ac466c038e671cc41e
+SHA1: 4d72b3eb6c7e55c96340da49afc0d9d191614638
+SHA256: ff8a471f168491b198d06ea735246b739927c0773116fb71de9ff015e6eddda2
+SHA512: ac37248612da31185897c6630742da8ac5ead998f2475208d17fc79336a5d107196b5076981173da89fac336c6556b2c00bcbcf040887deaad32e2651c0b7f51
+Homepage: https://github.com/dmipet90/pisampler-releases
+Description: DIY Raspberry Pi sampler workstation
+ PiSampler is a sampler for the Raspberry Pi with pads, slicing, a step
+ sequencer, a piano roll and an arrange view, played from MIDI controllers.
+ .
+ Installing the package also adds the PiSampler APT repository, so
+ "apt upgrade" installs new versions.
+

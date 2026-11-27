@@ -1,0 +1,6 @@
+Types: deb
+URIs: https://dmipet90.github.io/pisampler-releases/
+Suites: trixie
+Components: main
+Architectures: arm64
+Signed-By: /usr/share/keyrings/pisampler-archive-keyring.gpg
